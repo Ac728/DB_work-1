@@ -38,6 +38,7 @@ FROM stocks.ccc_list
 LIMIT 10;
 */
 
+/**/
 -- Kombinationen aus mehreren Feldern in neues Feld 
 -- hier mit Verknüpfung CONCAT() // String-Fkt.
 SELECT
@@ -46,6 +47,7 @@ c_name "company",
 CONCAT(sector," | ",industry) "operations"
 FROM stocks.ccc_list
 LIMIT 10;
+
 
 
 
