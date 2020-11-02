@@ -3,6 +3,7 @@
 USE stocks;
 system clear;
 
+-- Index
 /*
     Eingrenzen/Filtern WHERE & AND/OR etc.
     Eingrenzen/Filtern WHERE & LIKE + Parameter
