@@ -1,6 +1,8 @@
 /* QUERIES Basic */
 
+USE stocks;
 system clear;
+
 
 /*
 Felder abfragen
